@@ -1,0 +1,32 @@
+{
+  "name": "dalaospider",
+  "version": "2.0.0",
+  "description": "对圈子内的大佬们的博客进行爬取并且分析友链关系的爬虫",
+  "main": "DalaoSpider_v2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "eventproxy": "^0.3.5",
+    "async": "^2.1.4",
+    "superagent": "^3.4.1",
+    "mysql": "^2.13.0",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Archeb/DalaoSpider.git"
+  },
+  "keywords": [
+    "acg",
+    "spider",
+    "nodejs",
+    "blog"
+  ],
+  "author": "Archeb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Archeb/DalaoSpider/issues"
+  },
+  "homepage": "https://github.com/Archeb/DalaoSpider#readme"
+}
